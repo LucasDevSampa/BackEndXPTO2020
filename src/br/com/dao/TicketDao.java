@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package backendxpto.bean;
+package br.com.dao;
 
 /**
  *
  * @author Suporte
  */
-public class Produto {
+public class TicketDao {
     
 }

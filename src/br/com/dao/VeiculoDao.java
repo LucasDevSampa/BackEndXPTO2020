@@ -9,6 +9,6 @@ package br.com.dao;
  *
  * @author Suporte
  */
-public class UsuarioDao {
+public class VeiculoDao {
     
 }

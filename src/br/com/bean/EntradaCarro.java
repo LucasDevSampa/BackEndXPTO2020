@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package backendxpto.bean;
+package br.com.bean;
 
 /**
  *
  * @author Suporte
  */
-public class Funcionario extends Pessoa{
-    
-    public Funcionario(String nome) {
-        super(nome);
-    }
+public class EntradaCarro {
     
 }
